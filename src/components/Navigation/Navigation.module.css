@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  padding: 15px 30px;
+  gap: 15px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+
+.link {
+  color: black;
+  font-weight: bold;
+}
+
+.activeLink {
+  color: rgb(184, 7, 7);
+}
